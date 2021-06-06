@@ -6,8 +6,8 @@ const ejs = require("ejs");
 const mongoose = require('mongoose');
 
 const homeStartingContent = "I enjoy recommending a lessor known movie and have people enjoy it. That is why I will spend more space and time on this blog describing the movies that slipped through the theatre system without much fanfare or publicity.";
-const aboutContent = "THIS IS A MOVIE BLOG WEBSITE DEVELOPED BY S.REVANTH OF ST.JOSEPH'S COLLEGE OF ENGINEERING AS A PROJECT WITH NODE.JS AND EXPRESS.JS (YEAR 2021)";
-const contactContent = "S.REVANTH <br>  This project code is posted in Github : https://github.com/Revanth-7 <br> Linkedin Profile:https://www.linkedin.com/in/revanth-s-b48ab7209/";
+const aboutContent = "THIS IS A MOVIE BLOG WEBSITE DEVELOPED BY S.REVANTH OF ST.JOSEPH'S COLLEGE OF ENGINEERING AS A PROJECT WITH NODE.JS AND EXPRESS.JS "<br>"(YEAR 2021)";
+const contactContent = "S.REVANTH "<br>" This project code is posted in Github : https://github.com/Revanth-7 " <br> " Linkedin Profile:https://www.linkedin.com/in/revanth-s-b48ab7209/";
 
 const app = express();
 
